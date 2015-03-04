@@ -4,25 +4,20 @@
   "version": "0.0.0",
   "author": "Mal Graty <mal.graty@googlemail.com>",
   "license": "MIT",
-
   "keywords": "hubot, hubot-scripts, faye, publish, pubsub, push, websockets",
-
   "repository": {
     "type": "git",
     "url": "git://github.com/hubot-scripts/hubot-push.git"
   },
-
   "bugs": {
     "url": "https://github.com/hubot-scripts/hubot-push/issues"
   },
-
   "dependencies": {
+    "faye": "^1.1.1"
   },
-
   "peerDependencies": {
     "hubot": "2.x"
   },
-
   "devDependencies": {
     "hubot": "2.x",
     "mocha": "*",
@@ -33,9 +28,7 @@
     "matchdep": "~0.1.2",
     "grunt-contrib-watch": "~0.5.3"
   },
-
   "main": "index.coffee",
-
   "scripts": {
     "test": "grunt test"
   }
