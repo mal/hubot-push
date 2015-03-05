@@ -7,10 +7,10 @@
   "keywords": "hubot, hubot-scripts, faye, publish, pubsub, push, websockets",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-push.git"
+    "url": "git://github.com/mal/hubot-push.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-push/issues"
+    "url": "https://github.com/mal/hubot-push/issues"
   },
   "dependencies": {
     "faye": "^1.1.1"
