@@ -1,4 +1,4 @@
-# hubot-push
+# hubot-push [![Build Status](https://travis-ci.org/mal/hubot-push.svg?branch=master)](https://travis-ci.org/mal/hubot-push)
 
 A hubot script to push messages to subscribers
 
