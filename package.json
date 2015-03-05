@@ -1,7 +1,7 @@
 {
   "name": "hubot-push",
   "description": "A hubot script to push messages to subscribers",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Mal Graty <mal.graty@googlemail.com>",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts, faye, publish, pubsub, push, websockets",
